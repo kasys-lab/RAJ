@@ -1,0 +1,18 @@
+[project]
+name = "raj"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ir-datasets>=0.5.11",
+    "krippendorff>=0.8.1",
+    "openai>=2.0.1",
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+    "scikit-learn>=1.7.2",
+    "scrapy>=2.13.3",
+    "tiktoken>=0.11.0",
+    "trafilatura>=2.0.0",
+]
