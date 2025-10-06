@@ -39,11 +39,11 @@
 │   │   ├── NFCorpusHandler.py
 │   │   └── RobustHandler.py
 │   ├── generate_definition
-│   │   ├── generate_batch_file.py
+│   │   ├── create_batch_file.py
 │   │   └── main.py
 │   └── relevance_judgment
 │       ├── evaluate.py
-│       ├── generate_batch_file.py
+│       ├── create_batch_file.py
 │       └── main.py
 ├── utils
 │   ├── __init__.py
